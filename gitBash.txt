@@ -20,5 +20,4 @@ fatal: pathspec 'gitBassh指令.txt' did not match any files  没找到文件;
 
 
 
-
-1111111
+3.git diff =>查看不同
