@@ -17,3 +17,8 @@ fatal: pathspec 'gitBassh指令.txt' did not match any files  没找到文件;
 1.2 git status => 查看git 提交状态;
 
 2. commit -m “第一次提交gitbash指令”
+
+
+
+
+1111111
